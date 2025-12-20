@@ -9,7 +9,7 @@
 
 This example creates a custom popup container editor that displays the default OK button in the popup window.
 
-![WinForms Popup Container Editor - Display the default OK button in the dropdown](https://raw.githubusercontent.com/DevExpress-Examples/how-to-display-the-default-ok-button-in-the-popupcontaineredits-popup-window-e3666/13.1.4+/media/62056426-487b-11e4-80ba-00155d624807.png)
+![WinForms Popup Container Editor - Display the default OK button in the dropdown](media/62056426-487b-11e4-80ba-00155d624807.png)
 
 ```csharp
 class PopupContainerFormOkButton : PopupContainerForm {
@@ -46,3 +46,4 @@ class PopupContainerFormOkButton : PopupContainerForm {
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
