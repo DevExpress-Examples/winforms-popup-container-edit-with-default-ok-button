@@ -40,7 +40,7 @@ class PopupContainerFormOkButton : PopupContainerForm {
 * [PopupContainerFormOkButton.cs](./CS/PopupContainerFormOkButton.cs) (VB: [PopupContainerFormOkButton.vb](./VB/PopupContainerFormOkButton.vb))
 * [RepositoryItemPopupContainerEditOKButton.cs](./CS/RepositoryItemPopupContainerEditOKButton.cs) (VB: [RepositoryItemPopupContainerEditOKButton.vb](./VB/RepositoryItemPopupContainerEditOKButton.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-popup-container-edit-with-default-ok-button&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-popup-container-edit-with-default-ok-button&~~~was_helpful=no)
 
